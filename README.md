@@ -1,51 +1,44 @@
-Python_Basic_Assignment
+### Python_Basic_Assignment
 
+![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
 
+# Python Basics – Assignment Solutions
 
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
-Python Basics – Assignment SolutionsThis repository contains beginner-friendly solutions for the Python Basics assignment from Pwskills.
+> This repository contains solutions for the **Python Basics assignment from PWskills**. It covers Python fundamentals like syntax, data types, operators, loops, conditional statements, and more.
 
-🎓 Overview
+---
 
-This notebook focuses on core Python fundamentals like:
+## 📁 Contents
+- Introduction to Python
+- Variables & Data Types
+- Operators
+- Conditional Statements
+- Loops (for, while)
+- Basic Input/Output
+- Simple Programs
 
-Python syntax
+---
 
-Data types
+## 🚀 Run locally:
 
-Operators
-
-Loops
-
-Basic input/output
-
-Whether you're new to Python or brushing up your basics, this notebook is structured to provide clarity with hands-on examples.
-
-🚀 Getting Started
-
-🔄 Clone the Repository:
-
-git clone https://github.com/TheJangra/Python_Basic_Assignment.git
+```bash
+# Clone the repo
+https://github.com/TheJangra/Python_Basic_Assignment.git
 cd Python_Basic_Assignment
+```
 
-🔍 Open the Notebook:
+Then open the `.ipynb` file in **Jupyter Notebook**, **VS Code**, or run it in **Google Colab**:
 
-Use Jupyter Notebook or
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TheJangra/Python_Basic_Assignment/blob/main/your_notebook.ipynb)
 
-Launch in Google Colab: 
+---
 
-📚 Topics Covered
+## 📜 License
+This project is licensed under the MIT License. See the `LICENSE` file for details.
 
-Variables and Expressions
+> Made with ❤️ by [TheJangra](https://github.com/TheJangra)
 
-Data Types (int, float, string, list, tuple, dict, set)
-
-Conditional Statements
-
-Loops (for, while)
-
-Basic Input and Output
-
-📜 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
